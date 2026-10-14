@@ -1,5 +1,6 @@
 /* Recursion */
 #include<stdio.h>
+#include<stdlib.h>
 
 long f(int n);
 // This function returns the factorial of n.
